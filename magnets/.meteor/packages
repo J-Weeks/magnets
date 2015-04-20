@@ -8,4 +8,5 @@ meteor-platform
 autopublish
 insecure
 jquery
-twbs:bootstrap
+mizzao:bootstrap-3
+mizzao:jquery-ui
